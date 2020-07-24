@@ -47,6 +47,6 @@ Hi, I'm Ajay Yadav, a Data Scientist and Machine Learning engineer 🚀 from Ind
 
 
 
-![Ajay's github stats](https://github-readme-stats.vercel.app/api?username=ajay7444&show_icons=true&hide_border=true)
+
 
 
