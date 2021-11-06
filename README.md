@@ -13,7 +13,7 @@
 <br />
 <br />
 
-Hi, I'm Ajay Yadav, a Data Scientist and Machine Learning engineer 🚀 from India, currently, I'm a working in a company as Machine Learning Intern. Beside's programming, I enjoy listening music and exploring new things.
+Hi, I'm Ajay Yadav, a Data Scientist and Machine Learning engineer 🚀 from India, currently, I'm a working in a company as Machine Learning Engineer. Beside's programming, I enjoy listening music and exploring new things.
 
   <img height="250" right="0" width="500" align="right" alt="GIF" src="https://devtechnosys.com/insights/wp-content/uploads/2020/01/1807-SAGE-AI-auto-02.gif" />
   
